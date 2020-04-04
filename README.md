@@ -24,3 +24,7 @@ changed .header div ul to .header div ol in style.css
 changed .header div ul li to .header div ol li in style.css
 
 inserted alt tag for "brand-awareness.png"
+
+inserted alt tag for "cost-management.png"
+
+removed ending img tag for "cost-management.png"
