@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
+.header div ol {
+    list-style-type: square type ordered;
 }
 
-.header div ul li {
+.header div ol li {
     display: inline-block;
     margin-left: 25px;
 }
